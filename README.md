@@ -40,26 +40,23 @@ On my free time, I actively develop **Python-based trading bots** connected to B
 
 ## 🛠️ Tech stack
 
-**Languages**
-- Python (main language)
-- Solidity
-- SQL
-- JavaScript
-- Bash
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**Web / APIs**
-- REST APIs
-- Vue.js
+![REST API](https://img.shields.io/badge/REST_API-0088CC?style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white)
 
-**Data & Infrastructure**
-- ClickHouse
-- MySQL
-- PostgreSQL
-- Linux
-- Docker
-- CI/CD
-- Grafana
-- Prefect
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FD0?style=for-the-badge&logo=clickhouse&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-007ACC?style=for-the-badge)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prefect](https://img.shields.io/badge/Prefect-6F2F9D?style=for-the-badge&logo=prefect&logoColor=white)
 
 ---
 
